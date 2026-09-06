@@ -36,6 +36,8 @@ For any given mark, both styles are sized to match the same physical scale used 
 | `svg/nastaliq/` | Individual SVG files, Nasta'liq style, one per mark |
 | `png/thuluth/` | Individual PNG files, Thuluth style, one per mark (black on transparent) |
 | `png/nastaliq/` | Individual PNG files, Nasta'liq style, one per mark (black on transparent) |
+| `specimen/specimen-sheet.png` | Full specimen sheet, Thuluth & Nasta'liq side by side (all 20 marks) |
+| `specimen/specimen-sheet.pdf` | Specimen sheet in PDF format |
 
 ---
 

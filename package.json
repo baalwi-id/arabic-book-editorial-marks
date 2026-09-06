@@ -1,6 +1,6 @@
 {
   "name": "arabic-book-editorial-marks",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "SVG artwork for 20 Arabic editorial/structural marks used in classical kitab typesetting, in Thuluth and Nasta'liq styles",
   "keywords": [
     "arabic",
@@ -20,6 +20,7 @@
   "files": [
     "svg/",
     "png/",
+    "specimen/",
     "README.md",
     "LICENSE",
     "!**/desktop.ini"
