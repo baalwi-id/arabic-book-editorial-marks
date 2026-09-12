@@ -1,6 +1,6 @@
 # arabic-book-editorial-marks
 
-> SVG artwork for 24 Arabic editorial/structural marks used in classical kitab (book) typesetting—freely available for use in any digital or print project.
+> SVG artwork for 26 Arabic editorial/structural marks used in classical kitab (book) typesetting—freely available for use in any digital or print project.
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub](https://img.shields.io/badge/GitHub-baalwi--id-teal)](https://github.com/baalwi-id)
@@ -36,7 +36,7 @@ For any given mark, both styles are sized to match the same physical scale used 
 | `svg/nastaliq/` | Individual SVG files, Nasta'liq style, one per mark |
 | `png/thuluth/` | Individual PNG files, Thuluth style, one per mark (black on transparent) |
 | `png/nastaliq/` | Individual PNG files, Nasta'liq style, one per mark (black on transparent) |
-| `specimen/specimen-sheet.png` | Full specimen sheet, Thuluth & Nasta'liq side by side (all 24 marks) |
+| `specimen/specimen-sheet.png` | Full specimen sheet, Thuluth & Nasta'liq side by side (all 26 marks) |
 | `specimen/specimen-sheet.pdf` | Specimen sheet in PDF format |
 
 ---
@@ -54,6 +54,8 @@ Files are named after a plain transliteration of the phrase, e.g. `bab.svg`, `kh
 | khutbatul-kitab | خطبة الكتاب | khuṭbat al-kitāb | the book's opening sermon/preface |
 | fihris | فهرس | fihris | table of contents / index |
 | muhtawiyat | المحتويات | al-muḥtawayāt | table of contents (alternate) |
+| juz | جزء | juz' | part / volume (indefinite) |
+| aljuz | الجزء | al-juz' | the part / volume (definite) |
 | bab | باب | bāb | chapter (indefinite) |
 | albab | الباب | al-bāb | the chapter (definite) |
 | fasl | فصل | faṣl | section (indefinite) |
